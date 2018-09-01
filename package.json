@@ -1,0 +1,23 @@
+{
+  "name": "todo-app-add-items",
+  "version": "1.0.0",
+  "description": "This is a small TODO app, an example using only React.",
+  "keywords": [
+    "react",
+    "#react",
+    "react-dom",
+    "todo"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.4.2",
+    "react-dom": "16.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
